@@ -19,6 +19,12 @@ A responsive Amazon-inspired e-commerce website built using HTML and CSS.
 - Flexbox
 - Responsive Web Design
 
+  ## 📸 Screenshots
+
+### Homepage
+
+![Amazon Clone Homepage](./images/Home-page.png)
+
 ## How to Run
 
 1. Clone the repository.
