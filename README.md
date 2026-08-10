@@ -23,7 +23,7 @@ A responsive Amazon-inspired e-commerce website built using HTML and CSS.
 
 ### Homepage
 
-![Amazon Clone Homepage](./pictuers/Home-page.png)
+![Amazon Clone Homepage](https://github.com/Rutuja-Savant/amazon-homepage-clone/blob/main/Home-page.png?raw=true)
 ### 🛍️ Products Page
 
 ![Amazon Clone Products Page](./images/products.png)
